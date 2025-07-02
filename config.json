@@ -1,0 +1,51 @@
+{
+  "gym": {
+    "name": "Slimfit Ladies Fitness Concept",
+    "tagline": "Every Step is Progress",
+    "phone": "7994229705",
+    "email": "trainer@skygym.com",
+    "whatsapp": "7994229705",
+    "instagram": "https://www.instagram.com/_sky_gym_?igsh=dmpodm1uYzI4Zmt6",
+    "address": "Thekkedath Rd, near Ambanakulangara, Ambanakulangara, Ward 7, Mannanchery, Alappuzha, Kerala 688522",
+    "googleMapsUrl": "https://maps.app.goo.gl/cAH48wG57Xn3gCe87",
+    "googleReviewsUrl": "https://www.google.com/search?client=firefox-b-d&sca_esv=ccb8066356fd07b7&sxsrf=AE3TifPL5fqddMtLr_Qx70YLiC-7iNQvow:1750783019556&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E5355nheRo4ixnCFQPjMBMRh7RXth-PBCJHnVdILvJ4IUf9Fw4eEizEFRdeI26R_ARuIbTE9o0-IKnKJ7_jEI4Iy3OgOCPN0cPxI29VufkmSmuqNXw%3D%3D&q=Sky+Gym+Fitness+Center+Reviews&sa=X&ved=2ahUKEwjPn9b_voqOAxXTXmwGHRw1CAcQ0bkNegQIHxAD&biw=1920&bih=919&dpr=1",
+    "workingHours": {
+      "weekdays": "5:30 AM - 11:00 PM",
+      "sunday": "OFF"
+    },
+    "locations": [
+      {
+        "name": "Slimfit Ladies Fitness Concept",
+        "address": "Ambanakulangara, Mannanchery, Alappuzha",
+        "type": "main"
+      },
+      {
+        "name": "Slimfit Premium",
+        "address": "Muhamma, Alappuzha",
+        "type": "premium"
+      }
+    ]
+  },
+  "content": {
+    "about": "Step into Slimfit Ladies Fitness Concept, your ultimate fitness haven in Alappuzha, designed to inspire a healthier, stronger, and more vibrant you! With our main location in Alappuzha and additional branches at Ambanakulangara, Mannanchery, Alappuzha, and Muhamma, Alappuzha, we bring top-tier gym facilities and tailored training programs to support your wellness journey. At Slimfit Ladies Fitness Concept Alappuzha, we're passionate about empowering every individual to embrace a fit lifestyle. Our skilled trainers create an inclusive and encouraging atmosphere, helping you stay motivated and confident as you push your limits. Whether you're an experienced fitness enthusiast or just beginning your transformation in Alappuzha, Slimfit Ladies Fitness Concept offers the tools and guidance you need to thrive. Explore our locations at Ambanakulangara, Mannanchery, or Muhamma and start your fitness adventure with us today!",
+    "highlights": [
+      "First 6000 SqFt Gym in Alappuzha",
+      "Dedicated lady trainers for ladies",
+      "5 trainers available all the time",
+      "Fully imported equipment",
+      "Training programs: Weight training, weight loss, weight gain, cardio fitness, personal training, group training",
+      "AC gym"
+    ]
+  },
+  "images": {
+    "logo": "/slimfit-3d-transparent-logo.png",
+    "gallery": [
+      "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1552103/pexels-photo-1552103.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1552106/pexels-photo-1552106.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1552108/pexels-photo-1552108.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ]
+  }
+}
