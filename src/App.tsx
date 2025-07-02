@@ -183,8 +183,8 @@ const App = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center justify-center">
               <img 
-                src="/slimfit-3d-transparent-logo.png" 
-                alt="Slimfit Ladies Fitness Concept Logo" 
+                src="/slimfit-logo.svg" 
+                alt="Slim Fit Ladies Fitness Centre Logo" 
                 className="h-20 w-20 md:h-24 md:w-24 object-contain hover:animate-spin transition-transform duration-500 filter drop-shadow-lg"
               />
             </div>

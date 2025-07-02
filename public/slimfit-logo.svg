@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#bgGradient)" stroke="#2DD4BF" stroke-width="3"/>
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E0F2FE;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#A7F3D0;stop-opacity:0.8" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0EA5E9" />
+      <stop offset="50%" style="stop-color:#2DD4BF" />
+      <stop offset="100%" style="stop-color:#059669" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Running Figure -->
+  <g transform="translate(100, 80)">
+    <!-- Body -->
+    <ellipse cx="0" cy="0" rx="12" ry="20" fill="url(#textGradient)" opacity="0.8"/>
+    <!-- Head -->
+    <circle cx="0" cy="-25" r="8" fill="url(#textGradient)" opacity="0.8"/>
+    <!-- Arms -->
+    <line x1="-8" y1="-10" x2="-15" y2="-5" stroke="url(#textGradient)" stroke-width="3" stroke-linecap="round"/>
+    <line x1="8" y1="-10" x2="15" y2="-15" stroke="url(#textGradient)" stroke-width="3" stroke-linecap="round"/>
+    <!-- Legs -->
+    <line x1="-5" y1="15" x2="-12" y2="25" stroke="url(#textGradient)" stroke-width="3" stroke-linecap="round"/>
+    <line x1="5" y1="15" x2="18" y2="20" stroke="url(#textGradient)" stroke-width="3" stroke-linecap="round"/>
+    <!-- Motion lines -->
+    <path d="M -25 -5 L -30 -8 M -25 0 L -30 -2 M -25 5 L -30 3" stroke="#2DD4BF" stroke-width="2" opacity="0.6"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="100" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="url(#textGradient)">SLIM FIT</text>
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-weight="600" font-size="12" fill="#0EA5E9">LADIES FITNESS</text>
+  <text x="100" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-weight="600" font-size="10" fill="#059669">CENTRE</text>
+</svg>
